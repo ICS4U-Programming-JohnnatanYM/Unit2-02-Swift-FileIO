@@ -1,0 +1,8 @@
+Sum: 55
+Line is empty.
+Sum: -1
+Sum: 30
+Sum: 0
+Invalid number format in input file.
+Invalid number format in input file.
+Sum: 64
